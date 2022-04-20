@@ -1,0 +1,143 @@
+
+
+
+h2 {
+    margin-left: 10px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#head2-1{
+    margin-top: 5px;
+    left: 29px;
+    margin-left: 10px;
+
+}
+
+p {
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+
+#citation {
+    color: aquamarine;
+    background: cornflowerblue
+}
+
+#textchunk1 {
+    top: 584px;
+    left: 218px;
+    position: absolute;
+    width: 500px;
+}
+
+
+#circle {
+    height: 319px;
+    width: 319px;
+    background: papayawhip;
+    border-radius: 300px;
+    left: 40px;
+    top: 578px;
+    position: absolute;
+    z-index: -10;
+}
+
+.textchunk2 {
+    top: 923px;
+    left: 589px;
+    position: absolute;
+    width: 500px;
+
+}
+
+#circle2 {
+    height: 520px;
+    width: 520px;
+    background: rgb(217, 236, 173);
+    border-radius: 520px;
+    margin-left: 482px;
+    top: 760px;
+    position: absolute;
+    z-index: -1;
+}
+
+
+#firstimage{
+    top: 64px;
+    left: 20px;
+    position: relative;
+}
+
+
+.thirdimage {
+    top: 923px;
+    left: 19px;
+    position: absolute;
+
+}
+.textchunkthree {
+    top: 1264px;
+    left: 21px;
+    position: absolute;
+    width: 500px;
+}
+
+#thirddraftimages {
+    margin-bottom: 100px;
+    top: 1440px;    
+    left: 19px;
+    position: absolute;
+}
+#circle3 {
+    height: 390px;
+    width: 390px;
+    background: rgb(180, 187, 245);
+    border-radius: 390px;
+    margin-left: 36px;
+    top: 1156px;
+    position: absolute;
+    z-index: -2;
+}
+
+.textchunk4{
+    top: 1795px;
+    left: 21px;
+    position: absolute;
+    width: 500px;
+}
+
+#finalimage{
+    margin-bottom: 300px;
+    top: 1800px;
+    left: 596px;
+    position: absolute;
+}
+
+#circle4{
+    height: 382px;
+    width: 382px;
+    background: papayawhip;
+    border-radius: 390px;
+    margin-left: 460px;
+    top: 1722px;
+    position: absolute;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+

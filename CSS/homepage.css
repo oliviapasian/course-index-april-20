@@ -1,0 +1,146 @@
+
+p {
+    color: rgb(132, 200, 255);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+
+#welcometext{
+    text-decoration: none;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: cornflowerblue;
+    width: 571px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    animation-name: colourchange;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colourchange {
+0% {color: cornflowerblue; left:-100px; top:0px;}
+20% {color: rgb(150, 209, 54); left:0px; top:100px;}
+40%  {color: rgb(183, 223, 83); left:100px; top:0px;}
+60%  {color: rgb(130, 209, 192); left:100px; top:100px;}
+80% {color: rgb(132, 200, 255); left:-100px; top:100px;}
+100% {color: cornflowerblue; left:-100px; top:0px;}
+}
+
+/*
+body {
+    background: pink;
+}
+
+h1 {
+    color: cornflowerblue;
+    background: papayawhip;
+    border-style: solid;
+    border-color: rgb(217, 236, 173);
+    border-width: 20px;
+    border-style:solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: rgb(132, 200, 255);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: max-content;
+    margin: auto;
+}
+
+.item{
+    height: 45px;
+    border: 10px solid rgb(217, 236, 173);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(132, 200, 255);
+}
+
+#welcometext{
+    text-decoration: none;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: cornflowerblue;
+    width: 571px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+HTML STARTS HERE
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Index Home</title>
+    <link rel="stylesheet" href="CSS/homepage.css">
+</head>
+<body>
+    <h1>Course Index: Olivia Pasian</h1>
+
+<div id="welcometext">
+    <h4>Hello! Welcome to my Course Index for Graphic Design 2. Click on the project links below to see my completed works and process for this course!</h4>
+</div>
+
+<div class="container">
+    <div class="item item1">
+        <p id="title1"> <a href="assignment1.html"> Assignment 1</a></p>
+    </div>
+    <div class="item item2">
+        <p id="title2"> <a href="assignment2.html">Assignment 2</a></p>
+    </div>
+    <div class="item item3">
+        <p id="title3">Assignment 3</p>
+    </div>
+   
+    <div class="item item6">
+        <p id="title6"><a href="readings.html">Readings</a> </p>
+    </div>
+</div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="JavaScript/js.js"></script>
+
+</body>
+</html>
+*/
+

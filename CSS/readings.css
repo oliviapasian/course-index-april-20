@@ -1,0 +1,208 @@
+a{
+    color: cornflowerblue;
+  font-style: italic;
+}
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#header2-1{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-top: -28px;
+    left: 29px;
+}
+
+p {
+    
+    margin-right: 10px;
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+
+#textchunk1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 484px;
+    left: 20px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk2{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 484px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk3{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 517px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+}
+
+#header2-2{
+     margin-left: 0px;
+    margin-right: 10px;
+   
+    margin-bottom: 30px;
+    margin-top: 559px;
+    left: 20px;
+    position: absolute;
+    width: 1200px;
+}
+
+#textchunk4{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 1130px;
+    left: 21px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk5{
+    top: 1130px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#textchunk6{
+    top: 1163px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#header2-3{
+    margin-left: 0px;
+    margin-right: 10px;
+   
+    margin-bottom: 30px;
+    margin-top: 1068px;    
+    left: 20px;
+    position: absolute;
+    width: 1200px;
+}
+
+#textchunk7{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 1613px;
+    left: 21px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk8{
+    top: 1613px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#textchunk9{
+    top: 1646px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#header2-4{
+    margin-left: 0px;
+    margin-right: 10px;
+   
+    margin-bottom: 30px;
+    margin-top: 1686px;
+    left: 20px;
+    position: absolute;
+    width: 1200px;
+}
+
+#textchunk10{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    top: 2226px;
+    left: 21px;
+    position: absolute;
+    width: 400px;
+}
+
+#textchunk11{
+    top: 2226px;
+    left: 435px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+
+#textchunk12{
+    top: 2259px;
+    left: 855px;
+    position: absolute;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}

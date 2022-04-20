@@ -1,0 +1,70 @@
+
+
+
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.dailysketches{
+    
+    position: static;
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+    
+}
+.sketchimages {
+    width: 1000px;
+    height: 1000px;
+    position: static;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#h2-1{
+    
+    left: 29px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+p {
+    margin-left: 20px;
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+  
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+
+#textchunk1 {
+    top: 184px;
+    left: 20px;
+    position: absolute;
+    width: 450px;
+}
+
